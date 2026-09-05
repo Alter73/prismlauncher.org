@@ -208,6 +208,6 @@ Terminating app due to uncaught exception 'NSInternalInconsistencyException', re
 
 Here is a fix:
 
-- First, remove your current [Oracle JRE](https://www.java.com/download/help/mac_uninstall_java.html) and [Oracle JDK](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#uninstall) if you have them installed.
+- First, remove your current [Oracle JRE](https://www.java.com/en/download/help/mac_uninstall_java.html) and [Oracle JDK](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html#uninstall) if you have them installed.
 - Then download and install [this Java 8u241 binary](https://files.multimc.org/downloads/jre-8u241-macosx-x64.dmg).
 - Select this java binary on Prism Launcher, and it should fix your issue!
